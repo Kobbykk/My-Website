@@ -1,5 +1,5 @@
 # 💫 About Me:
-Edwin Addai is an ambitious and talented Software Developer currently studying Software Development at Columbus State Community College. He brings strong expertise in .NET, SQL, and web development. His adaptability, collaborative nature, and drive to achieve team goals make him an asset in any development setting. Edwin maintains a positive and growth-oriented mindset, continually enhancing his skills.
+Hello, I am Edwin Addai, a passionate software developer with an excellent grounding in the .NET ecosystem, C#, and web development. I recently graduated with an Associate in Software Development from Columbus State Community College. My introduction to technology began with hands-on projects- from creating multi-part semester projects using ADO.NET to developing dynamic web applications using ASP.NET Core MVC. I have always liked finding solutions to the problem with layers to it. Recently, at Richnetics, where I work as a software developer intern, I have been able to do some code performance optimization and support the team in developing software, bug removal, making the software run more smoothly.
 
 
 ## 🌐 Socials:
