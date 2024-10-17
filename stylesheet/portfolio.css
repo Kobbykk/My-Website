@@ -316,22 +316,26 @@ footer a:hover {
 }
 
 /* Fading animation for slideshow */
+/* Fading animation for slideshow */
 .fade {
-    -webkit-animation-name: fade; /* For Safari 4.0-8.0 */
-    animation-name: fade; /* Standard syntax */
-    -webkit-animation-duration: 1.5s;
-    animation-duration: 1.5s; /* The animation lasts 1.5 seconds */
+    -webkit-animation-name: fade !important; /* For Safari 4.0-8.0 */
+    animation-name: fade !important; /* Standard syntax */
+    -webkit-animation-duration: 1.5s !important;
+    animation-duration: 1.5s !important; /* The animation lasts 1.5 seconds */
+    opacity: 1 !important; /* Ensure the opacity is always 1 at the end */
 }
 
 @-webkit-keyframes fade {
-    from {opacity: .4;} /* Image starts transparent */
-    to {opacity: 1;} /* Image ends opaque */
+    from {opacity: .4 !important;} /* Image starts fully transparent */
+    to {opacity: 1 !important;} /* Image ends fully opaque */
 }
 
 @keyframes fade {
-    from {opacity: .4;} /* Image starts transparent */
-    to {opacity: 1;} /* Image ends opaque */
+    from {opacity: .4 !important;} /* Image starts fully transparent */
+    to {opacity: 1 !important;} /* Image ends fully opaque */
 }
+
+
 /***** End Slideshow Styling *****/
 
 /***** Table Styling -  this section covers the styling of the columns and rows within the table *****/
